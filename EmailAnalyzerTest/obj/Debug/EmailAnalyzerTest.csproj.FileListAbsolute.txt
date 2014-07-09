@@ -1,0 +1,13 @@
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\Ruleset.xml
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\EmailAnalyzerTest.exe.config
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\EmailAnalyzerTest.exe
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\EmailAnalyzerTest.pdb
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\EmailAnalyzerLibrary.dll
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\Smrf.NodeXL.Core.dll
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\Smrf.NodeXL.Util.dll
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\EmailAnalyzerLibrary.pdb
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\Smrf.NodeXL.Core.xml
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\bin\Debug\Smrf.NodeXL.Util.xml
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\obj\Debug\EmailAnalyzerTest.csprojResolveAssemblyReference.cache
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\obj\Debug\EmailAnalyzerTest.exe
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerTest\obj\Debug\EmailAnalyzerTest.pdb

@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="EmailAnalyzerUI.InterestControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="89.298" Width="810.448">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="84*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="Azure"/>
+                <GradientStop Color="White" Offset="0.66"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Name: " Name="IndividualName" HorizontalAlignment="Left" Margin="10,-5,0,0" VerticalAlignment="Top" Height="35" Width="800" Foreground="#FF3737F0"/>
+        <Label Content="Department: " x:Name="IndividualDepartment" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Height="35" Width="790" Foreground="#FF3737F0"/>
+        <Label Content="Number of Email Conversation: " x:Name="IndividualCount" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top" Height="35" Width="800" Foreground="#FF3737F0"/>
+
+    </Grid>
+</UserControl>

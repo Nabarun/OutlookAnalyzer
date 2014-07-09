@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailAnalyzerLibrary", "EmailAnalyzerLibrary\EmailAnalyzerLibrary.csproj", "{8BE11A8F-410E-4B12-9B9E-3CAFDF10EE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailAnalyzerUI", "EmailAnalyzerUI\EmailAnalyzerUI.csproj", "{6B48A908-18DF-4BE3-88C8-47F8AF1D2AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLogger", "ApplicationLogger\ApplicationLogger.csproj", "{815870AE-A031-4F6F-B825-1B50EE322746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE11A8F-410E-4B12-9B9E-3CAFDF10EE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE11A8F-410E-4B12-9B9E-3CAFDF10EE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE11A8F-410E-4B12-9B9E-3CAFDF10EE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE11A8F-410E-4B12-9B9E-3CAFDF10EE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B48A908-18DF-4BE3-88C8-47F8AF1D2AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B48A908-18DF-4BE3-88C8-47F8AF1D2AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B48A908-18DF-4BE3-88C8-47F8AF1D2AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B48A908-18DF-4BE3-88C8-47F8AF1D2AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815870AE-A031-4F6F-B825-1B50EE322746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815870AE-A031-4F6F-B825-1B50EE322746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815870AE-A031-4F6F-B825-1B50EE322746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815870AE-A031-4F6F-B825-1B50EE322746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

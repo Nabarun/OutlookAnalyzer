@@ -1,0 +1,8 @@
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\bin\Debug\ApplicationLogger.dll
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\bin\Debug\ApplicationLogger.pdb
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\obj\Debug\ApplicationLogger.dll
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\obj\Debug\ApplicationLogger.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\bin\Debug\ApplicationLogger.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\bin\Debug\ApplicationLogger.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\obj\Debug\ApplicationLogger.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\obj\Debug\ApplicationLogger.pdb

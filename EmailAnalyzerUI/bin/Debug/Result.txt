@@ -1,0 +1,28 @@
+Customer Group,Contribuition
+US-DS-DEV,28
+WSSC EC DEV USA - R&D,20
+US-BI-DEV,12
+AD DEV,12
+WA EngSys,8
+ILDC - SQL DEV,4
+WSSC EC PM USA - R&D,4
+US - WinAzure Storage,4
+SQL - DocDB,3
+US-DS-PM,3
+US - AAPT DEV,3
+Data Platform Engineering System,3
+Dev: Proactive Exp,3
+WA Dev,2
+ECO Dev China,2
+US-CSS UC Support NC,2
+US - WA Eng Systems,2
+Networking Dev - US,1
+AH-GTSC BIZAPPS SERVER,1
+US-Prem SLGE PFE SL 7,1
+WSSC ES&F Dev,1
+AD TEST USA,1
+WSSC EC DEV CANADA - R&D,1
+WAPS SQL Azure HC,1
+Networking Test - US,1
+US-CTS STB DEVELOPER TOOLS 1 NC,1
+AD PM USA,1

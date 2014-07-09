@@ -1,0 +1,16 @@
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\bin\Release\Ruleset.xml
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\bin\Release\EmailAnalyzerLibrary.dll
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\bin\Release\EmailAnalyzerLibrary.pdb
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\bin\Release\ApplicationLogger.dll
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\bin\Release\ApplicationLogger.pdb
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\obj\Release\EmailAnalyzerLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\obj\Release\EmailAnalyzerLibrary.dll
+E:\Projects\EmailAnalyzerTest\EmailAnalyzerLibrary\obj\Release\EmailAnalyzerLibrary.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\bin\Release\Ruleset.xml
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\bin\Release\EmailAnalyzerLibrary.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\bin\Release\EmailAnalyzerLibrary.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\bin\Release\ApplicationLogger.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\bin\Release\ApplicationLogger.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\obj\Release\EmailAnalyzerLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\obj\Release\EmailAnalyzerLibrary.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\EmailAnalyzerLibrary\obj\Release\EmailAnalyzerLibrary.pdb

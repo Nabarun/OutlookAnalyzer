@@ -1,0 +1,9 @@
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\bin\Release\ApplicationLogger.dll
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\bin\Release\ApplicationLogger.pdb
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\obj\Release\ApplicationLogger.dll
+E:\Projects\EmailAnalyzerTest\ApplicationLogger\obj\Release\ApplicationLogger.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\bin\Release\ApplicationLogger.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\bin\Release\ApplicationLogger.pdb
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\obj\Release\ApplicationLogger.csprojResolveAssemblyReference.cache
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\obj\Release\ApplicationLogger.dll
+E:\Projects\OutlookEmailAnalyzerTest_SourceCode\ApplicationLogger\obj\Release\ApplicationLogger.pdb

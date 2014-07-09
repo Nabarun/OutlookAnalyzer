@@ -1,0 +1,22 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" x:Class="EmailAnalyzerUI.DepartmentInterest" 
+             mc:Ignorable="d" Height="517.91" Width="915.299" Loaded="UserControl_Loaded_1">
+    <Grid Margin="0,0,10,10" Height="517">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <chartingToolkit:Chart HorizontalAlignment="Left" Margin="0,10,0,71" Title="Department Trend" Width="860" Grid.RowSpan="2">
+            <chartingToolkit:Chart.DataContext>
+                <PointCollection>1,10 2,20 3,30 4,40</PointCollection>
+            </chartingToolkit:Chart.DataContext>
+            <chartingToolkit:PieSeries Name="DepartmentInterestChart" DependentValuePath="Value" IndependentValuePath="Key" ItemsSource="{Binding}"/>
+        </chartingToolkit:Chart>
+        <Label Content="Loading..." HorizontalAlignment="Left" Margin="365,461,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="99" FontSize="20" Foreground="#FFEEEBF1" Name="LoadingLabel"/>
+    </Grid>
+</UserControl>

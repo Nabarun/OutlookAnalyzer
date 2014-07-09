@@ -1,0 +1,12 @@
+﻿<Rules>
+  <SetRules>
+    <AllowBody>WinFabric, Windows Fabric</AllowBody>
+    <AllowSubject>WinFabric,Azure</AllowSubject>
+    <AllowTo>Windows Fabric Discussion</AllowTo>
+  </SetRules>
+  <ExcludeRules>
+    <DenyBody></DenyBody>
+    <DenySubject>EIG Job</DenySubject>
+    <DenyDepartments></DenyDepartments>
+  </ExcludeRules>
+</Rules> 
